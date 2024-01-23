@@ -71,14 +71,14 @@ The preamble of your LaTeX document should look like this:
 * `\author` command has optional parameter that serves as and identifier, and which can be used in
 `\address` field to identify address belonging. Macros `\inits`, `\fnms`, `\snm` stands for author’s initials,
 first names and surname accordingly. Use `\thanksref` and `\thankstext` macro to identify
-and print title page footnotes. In adition `type=corresp` key in \thankstext will use * as a foot-
-note mark. It is use for correspondig author identification. Email address should be provided in a
+and print title page footnotes. In adition `type=corresp` key in `\thankstext` will use `*` as a
+footnote mark. It is used for correspondig author identification. Email address should be provided in a
 `\ead{label=id}` macro.
 * Labels **c1**, **f1** are used for thanks;
 * thanks text `type=corresp` marks corresponding author;
 * Labels **e1**, **e2** are used to print electronic addresses.
 `hyperref` package is loaded in the class so they will be made into hyperlinks;
-* Please add different keywords in `\kwd` makro
+* Please add different keywords in `\kwd` macro;
 * Headings are generated automatically by printing authors (in even page) and title (in odd page). Use
 `\runtitle{}` and `\runauthor{}` if necessary to change auto-generated ones.
 
