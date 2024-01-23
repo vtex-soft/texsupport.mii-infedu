@@ -817,7 +817,7 @@
 \def\copyright@sign{{\copyrf\char'323}}
 \def\copyright@signa{{\copyrfa\char'323}}
 \def\rtitleheadline{%
-  \footnotesize \@JOURNAL, \@pubyear,\ Vol. \@volume, No. \@issue, \@ppages
+  \footnotesize \@journal, \@pubyear,\ Vol. \@volume, No. \@issue, \@ppages
   \hfill {\small \thepage}\break
   \copyright@sign\ \@pubyear\ \textit{\@publisher}\hfill\break
   \print@doi
