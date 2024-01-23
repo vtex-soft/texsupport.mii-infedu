@@ -118,6 +118,6 @@ Please submit a single zip file which contains the following files:
 ## Bug reports
 
 Please submit bug reports and/or feature requests
-at [GitHub page](https://github.com/vtex-soft/texsupport.vu-infedu/issues) or 
+at [GitHub page](https://github.com/vtex-soft/texsupport.mii-infedu/issues) or 
 [latex-support@vtex.lt](mailto:latex-support@vtex.lt).
 
