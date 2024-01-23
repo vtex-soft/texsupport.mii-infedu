@@ -8,7 +8,6 @@ LaTeX author support files for the journal
 
 The following files are given in the repository (or directly in `.zip` archive):
 
-- `infedumanual.pdf` - author's instructions
 - `infedu_sample.tex` - a sample article
 - `infedu_sample.pdf` - a sample article
 - `infedu_template.tex` - a template file
