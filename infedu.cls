@@ -16,7 +16,7 @@
 %% Either version 1.3 or (at your option) any later version.
 %%
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{infedu}[2022/12/18 v0.15.02 Informatics in Eduaction Journal class]
+\ProvidesClass{infedu}[2022/12/18 v0.15.02 Informatics in Education Journal class]
 \def\fmt@name{infedu}
 
 \RequirePackage{etoolbox}
@@ -42,7 +42,7 @@
 
 \InputIfFileExists{infedu.cfg}{}{}
 
-\def\@journal{Informatics in Eduaction}
+\def\@journal{Informatics in Education}
 \def\@journalabbrev{Informatics in Eduaction}
 \def\@journal@url{https://infedu.vu.lt/journal/INFEDU}
 \def\@JOURNAL{INFORMATICS IN EDUACTION}
