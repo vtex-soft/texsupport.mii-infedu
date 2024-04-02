@@ -1,7 +1,7 @@
 # texsupport.mii-infedu
 
 LaTeX author support files for the journal  
-[Informatics in Eduaction](https://infedu.vu.lt/journal/INFEDU)
+[Informatics in Education](https://infedu.vu.lt/journal/INFEDU)
 
 
 ## Contents
